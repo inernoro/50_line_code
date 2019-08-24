@@ -1,0 +1,1 @@
+This is an new Fibonacci sequence. Compared with the old method, it provides a new way of thinking,
